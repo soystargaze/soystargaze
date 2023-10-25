@@ -1,21 +1,21 @@
-  # Bio 📸
+# Bio 📸
 
-  Con una trayectoria en fotografía y videografía, mi enfoque se ha desplazado hacia el sector audiovisual. Me especializo en fotografía de arquitectura, interiorismo y retrato.
+Con una trayectoria en fotografía y videografía, mi enfoque se ha desplazado hacia el sector audiovisual. Me especializo en fotografía de arquitectura, interiorismo y retrato.
 
 [Mi página Web](https://erosmari.com)
 
-  ## Educación🎓
+## Educación🎓
 
-  Recientemente, he iniciado estudios en administración de sistemas en red, explorando así nuevas perspectivas profesionales.
+Recientemente, he iniciado estudios en administración de sistemas en red, explorando así nuevas perspectivas profesionales.
 
-  ## Habilidades Técnicas 💻
+## Habilidades Técnicas 💻
 
 - Fotografía y Videografía
 - Edición con Adobe Suite
 - Administración de Sistemas en Red (En progreso)
 - Otros software relevantes: Davinci Resolve
 
-  ## Contacto 📬
+## Contacto 📬
 
 - Correo: hola@erosmari.com
 - LinkedIn: [Eros Marí](http://linkedin.com/in/erosmari)
