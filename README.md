@@ -11,7 +11,7 @@ Recientemente, he iniciado estudios en administración de sistemas en red, explo
 ## Habilidades Técnicas 💻
 
 - Fotografía y Videografía
-- Edición con Adobe Suite
+- Edición de fotografía y vídeo con Adobe Suite
 - Administración de Sistemas en Red (En progreso)
 - Otros software relevantes: Davinci Resolve
 
